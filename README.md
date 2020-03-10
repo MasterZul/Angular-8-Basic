@@ -15,4 +15,4 @@
 
 `Course Links`: https://coursetro.com/posts/code/174/Angular-8-Tutorial-&-Crash-Course
 
-`Youtube link1: https://www.youtube.com/watch?v=_TLhUCjY9iA
+`Youtube link`: https://www.youtube.com/watch?v=_TLhUCjY9iA
