@@ -1,5 +1,4 @@
 # Angular-8-Basic
-# Basic Angular 8 Application
 
 `Routes` = to set a route link and configure it
 
